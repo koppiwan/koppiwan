@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm koppi Wan</h1>
-<h3 align="center">A passionate frontend developer from Barbie Land 🪄</h3>
+<h3 align="center">A passionate UI designer trying to learn Programming from Barbie Land 🪄</h3>
 
 - 🔭 I’m currently working on **dashboard-practice**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/koppiwan](https://www.behance.net/koppiwan)
+- 👨‍💻 All of my Design projects are available at [https://www.behance.net/koppiwan](https://www.behance.net/koppiwan)
 
 - 📫 How to reach me **koppiwan@gmail.com**
 
